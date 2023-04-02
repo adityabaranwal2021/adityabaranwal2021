@@ -1,6 +1,9 @@
+
+<break><img align="right" src="https://rishavanand.github.io/static/images/greetings.gif" alt="Hello" width="600">
 <h1 align="center">Hi 👋, I'm Aditya Baranwal</h1>
 <h3 align="center">A passionate software engineer from India</h3>
-
+<br><br><br><br><br><br><br><br><br><br>
+                                                                                            
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adityabaranwal2021&label=Profile%20views&color=0e75b6&style=flat" alt="adityabaranwal2021" /> </p>
